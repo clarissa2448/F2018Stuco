@@ -17,7 +17,7 @@ export default class Header extends Component<Props> {
       <View style={styles.container}>
         <Icon name='menu' size={30} color='white'/>
         <Text style={styles.title}>
-          Home
+          Office Hours
         </Text>
         <Icon name='menu' size={30} color='white'/>
       </View>
